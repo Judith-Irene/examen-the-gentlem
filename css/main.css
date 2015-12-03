@@ -1,0 +1,17 @@
+header{
+	background:#2E2E2E;
+	border-top:4px solid black;
+	color: #fff;
+	border-bottom: 6px double black
+}
+.derecha{
+	text-align: right;
+
+}
+.top{
+	text-align: right;
+}
+footer{
+	background:#2E2E2E;
+	color: #fff;
+}
