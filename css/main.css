@@ -11,6 +11,10 @@ header{
 .top{
 	text-align: right;
 }
+.fondo{
+	background:grey;
+	padding: 15px;
+}
 footer{
 	background:#2E2E2E;
 	color: #fff;
